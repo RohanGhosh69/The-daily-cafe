@@ -1,0 +1,26 @@
+h1{
+    color: rgb(158, 158, 255); 
+    text-align: center;
+    background-color: blue;
+}
+h2{
+    color: rgb(15, 243, 68); 
+    text-align: center;
+    background-color: rgb(151, 241, 151);
+    width: 50%;
+}
+body{
+    background-color: rgb(235, 243, 243);
+}
+p{
+    color: red;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+html , body{
+    height: 100%;
+    width: 100%;
+}
