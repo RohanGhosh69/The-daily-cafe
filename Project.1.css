@@ -129,4 +129,10 @@ p{
     -webkit-filter: blur(2px);
     
   }
+
+  .Food img:Hover{
+    transition: scale(1.1);
+    filter :blur(0);  
+    -webkit-filter: blur(0);
+  }
   
